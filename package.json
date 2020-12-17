@@ -3,7 +3,7 @@
 	"private": true,
 	"dependencies": {
 		"@danielfarrell/bootstrap-combobox": "https://github.com/berrnd/bootstrap-combobox.git#master",
-		"@ericblade/quagga2": "^1.2.1",
+		"@ericblade/quagga2": "^1.2.6",
 		"@fortawesome/fontawesome-free": "^5.14.0",
 		"TagManager": "https://github.com/max-favilli/tagmanager.git#master",
 		"animate.css": "^3.7.2",
