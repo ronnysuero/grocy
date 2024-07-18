@@ -664,14 +664,10 @@ bl@^4.0.1:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
-bootbox@^5.3.2:
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/bootbox/-/bootbox-5.4.0.tgz#2857a63c270b1b797d62e4c5597e74b497267655"
-  integrity sha512-GCPrDwZpJsUnqzrto3ZURVafypl13+DAyE3YZx5jR5EIoTDSyREPhr77hlCuPKvM6VvXR5Mh/34W3DYMC7JE9g==
-  dependencies:
-    bootstrap "^4.4.0"
-    jquery "^3.4.1"
-    popper.js "^1.16.0"
+bootbox@^5.5.3:
+  version "5.5.3"
+  resolved "https://registry.yarnpkg.com/bootbox/-/bootbox-5.5.3.tgz#6b32da9c401a22b089e1544797cc9a91f1c35b23"
+  integrity sha512-B4mnm1DYgNHzoNtD7I0L/fixqvya4EEQy5bFF/yNmGI2Eq3WwVVwdfWf3hoF8KS+EaV4f0uIMqtxB1EAZwZPhQ==
 
 bootstrap-select@^1.13.18:
   version "1.13.18"
@@ -683,7 +679,7 @@ bootstrap@4.0.0:
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.0.0.tgz#ceb03842c145fcc1b9b4e15da2a05656ba68469a"
   integrity sha512-gulJE5dGFo6Q61V/whS6VM4WIyrlydXfCgkE+Gxe5hjrJ8rXLLZlALq7zq2RPhOc45PSwQpJkrTnc2KgD6cvmA==
 
-bootstrap@>=4.1.2, bootstrap@^4.4.0, bootstrap@^4.5.2:
+bootstrap@>=4.1.2, bootstrap@^4.5.2:
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.5.2.tgz#a85c4eda59155f0d71186b6e6ad9b875813779ab"
   integrity sha512-vlGn0bcySYl/iV+BGA544JkkZP5LB3jsmkeKLFQakCOwCM3AOk7VkldBz4jrzSe+Z0Ezn99NVXa1o45cQY4R6A==
@@ -2045,7 +2041,7 @@ jquery@3.3.1:
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca"
   integrity sha512-Ubldcmxp5np52/ENotGxlLe6aGMvmF4R8S6tZjsP6Knsaxd/xp3Zrh50cG93lR6nPXyUFwzN3ZSOQI0wRJNdGg==
 
-jquery@3.5.1, jquery@>=1.12.0, "jquery@>=1.5.0 <4.0", jquery@>=1.7, jquery@>=1.7.2, jquery@^3.0, jquery@^3.4.1:
+jquery@3.5.1, jquery@>=1.12.0, "jquery@>=1.5.0 <4.0", jquery@>=1.7, jquery@>=1.7.2, jquery@^3.0:
   version "3.5.1"
   resolved "https://registry.yarnpkg.com/jquery/-/jquery-3.5.1.tgz#d7b4d08e1bfdb86ad2f1a3d039ea17304717abb5"
   integrity sha512-XwIBPqcMn57FxfT+Go5pzySnm4KWkT1Tv7gjrpT1srtf8Weynl6R273VJ5GjkRb51IzMp5nbaPjJXMWeju2MKg==
@@ -2795,7 +2791,7 @@ pngjs@^3.3.3:
   resolved "https://registry.yarnpkg.com/pngjs/-/pngjs-3.4.0.tgz#99ca7d725965fb655814eaf65f38f12bbdbf555f"
   integrity sha512-NCrCHhWmnQklfH4MtJMRjZ2a8c80qXeMlQMv2uVp9ISJMTt562SbGd6n2oq0PaPgKm7Z6pL9E2UlLIhC+SHL3w==
 
-popper.js@^1.14.3, popper.js@^1.16.0:
+popper.js@^1.14.3:
   version "1.16.1"
   resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.16.1.tgz#2a223cb3dc7b6213d740e40372be40de43e65b1b"
   integrity sha512-Wb4p1J4zyFTbM+u6WuO4XstYx4Ky9Cewe4DWrel7B0w6VVICvPwdOpotjzcf6eD8TsckVnIMNONQyPIUFOUbCQ==
